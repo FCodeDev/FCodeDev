@@ -1,7 +1,9 @@
-### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FCodeDev&count_private=true&show_icons=true&theme=cobalt)](https://github.com/FCodeDev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCodeDev&layout=compact&theme=cobalt)](https://github.com/FCodeDev)
+#### About me 👏
+hello！I'm zk. I'm a passionate and responsible FrontEnd developer from xx🇨🇳
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FCodeDev&count_private=true&show_icons=true&theme=buefy)](https://github.com/FCodeDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCodeDev&layout=compact&theme=buefy)](https://github.com/FCodeDev)
 
 
 <!--
