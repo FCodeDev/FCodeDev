@@ -1,9 +1,9 @@
 
 ### About me 👏
-Hi there, I am Zhang Kai! A passionate and responsible FrontEnd developer from China🇨🇳. I am currently looking for a job
+Hi there, I am Zhang Kai! A passionate and responsible FrontEnd developer from China🇨🇳. 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FCodeDev&count_private=true&show_icons=true&theme=buefy)](https://github.com/FCodeDev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCodeDev&layout=compact&theme=buefy)](https://github.com/FCodeDev)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XKFE&count_private=true&show_icons=true&theme=buefy)](https://github.com/FCodeDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XKFE&layout=compact&theme=buefy)](https://github.com/FCodeDev)
 
 
 <!--
