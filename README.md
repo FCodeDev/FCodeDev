@@ -13,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![MobX](https://img.shields.io/badge/MobX-F95?logo=mobx&logoColor=fff&style=flat-square)
+![Redux](https://img.shields.io/badge/Redux-6b41b4?logo=redux&logoColor=fff&style=flat-square)
 ![Nodejs](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
@@ -22,10 +22,12 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square)
 ![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat-square)
 
-[![windows](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
+[![macOS](https://img.shields.io/badge/-macOS-%232C3A42?style=flat-square&logo=apple)](https://support.apple.com/zh-cn/macos)
 [![vscode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-1d2024?style=flat-square&logo=github)
+![Gitee](https://img.shields.io/badge/-Gitee-b21e21?style=flat-square&logo=gitee)
 
 <a href="https://github.com/XKFE">
   <img src="https://github-readme-stats.vercel.app/api?username=XKFE&show_icons=true&theme=radical"  alt="Savuer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=XKFE&show_icons=true&theme=radical" style="max-width:100%;">
@@ -47,4 +49,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![MobX](https://img.shields.io/badge/MobX-F95?logo=mobx&logoColor=fff&style=flat-square)
 -->
