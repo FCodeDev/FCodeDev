@@ -1,10 +1,38 @@
 
-### About me 👏
-Hi there, I am Zhang Kai! A passionate and responsible FrontEnd developer from China🇨🇳. 
+<h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃！𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 小凯同学！</h2>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XKFE&count_private=true&show_icons=true&theme=buefy)](https://github.com/FCodeDev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XKFE&layout=compact&theme=buefy)](https://github.com/FCodeDev)
+<p>
+  <a href="https://juejin.cn/user/1093344720597416"><img src="https://img.shields.io/badge/juejin-小凯同学-blue" alt="juejin"></a>
+</p>
 
+**Languages and Tools:**  
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![MobX](https://img.shields.io/badge/MobX-F95?logo=mobx&logoColor=fff&style=flat-square)
+![Nodejs](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js)
+
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
+![esbuild](https://img.shields.io/badge/esbuild-FFCF00?logo=esbuild&logoColor=000&style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square)
+![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat-square)
+
+[![windows](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
+[![vscode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+<a href="https://github.com/XKFE">
+  <img src="https://github-readme-stats.vercel.app/api?username=XKFE&show_icons=true&theme=radical"  alt="Savuer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=XKFE&show_icons=true&theme=radical" style="max-width:100%;">
+</a>
+<a href="https://github.com/XKFE">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XKFE&layout=compact&theme=radical" alt="Savuer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=XKFE&show_icons=true&theme=radical" style="max-width:100%;">
+</a>
 
 <!--
 **FCodeDev/FCodeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
