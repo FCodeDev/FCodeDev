@@ -3,15 +3,20 @@
 
 <p>
   <a href="https://juejin.cn/user/1093344720597416"><img src="https://img.shields.io/badge/juejin-小凯同学-blue" alt="juejin"></a>
+  
 </p>
 
 **Languages and Tools:**  
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+[![Less](https://img.shields.io/badge/-Less-224373?style=flat-square&logo=less&logoColor=ffffff)](https://less.bootcss.com/)
+[![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)](https://www.sass.hk/)
+[![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)](https://www.tailwindcss.cn/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
+[![Vue](https://img.shields.io/badge/Vue-42b883?logo=vuedotjs&logoColor=fff&style=flat-square)](https://cn.vuejs.org/)
 [![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)](https://react.dev/)
 [![Redux](https://img.shields.io/badge/Redux-6b41b4?logo=redux&logoColor=fff&style=flat-square)](https://cn.redux.js.org/)
 [![Nodejs](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js)](https://nodejs.org/en)
