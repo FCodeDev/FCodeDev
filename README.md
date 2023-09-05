@@ -1,8 +1,8 @@
 
-<h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃！𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 小凯同学！</h2>
+<h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" width="32" height="32" /> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃！</h2>
 
 <p>
-  <a href="https://juejin.cn/user/1093344720597416"><img src="https://img.shields.io/badge/juejin-小凯同学-blue" alt="juejin"></a>
+  <a href="https://juejin.cn/user/1093344720597416"><img src="https://img.shields.io/badge/juejin-xkfe-blue" alt="juejin"></a>
   
 </p>
 
